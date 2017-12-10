@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "!Rep:",
+  "version": "0.1",
+
+  "description": "Adds the ability to post on private and authenticated Moodboards ",
+  "homepage_url": "https://www.carlofrinolli.it",
+  "icons": {
+    "48": "icons/no-rep-48.png"
+  },
+
+  "content_scripts": [
+     {
+       "matches": ["*://*.repubblica.it/*"],
+       "js": ["norep.js"]
+     }
+   ]
+
+}
