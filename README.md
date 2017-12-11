@@ -15,4 +15,4 @@ npm install --global web-ext
 ```
 
 And then you will be able to use its features.
-For more information please go [https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Getting_started_with_web-ext](to Mozilla's getting started).
+For more information please go [to Mozilla's getting started](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Getting_started_with_web-ext).
