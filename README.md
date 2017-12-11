@@ -2,6 +2,11 @@
 
 Removing annoying paid content who's prominent on Repubblica.it website.
 
+## Please note!
+
+This add-on acts in your local copy of the website (cached copy) and only manipulates the DOM you already downloaded. It does not perform on any level any modification to live content nor it impedes the Newspaper to charge readers for premium content.
+The author is not responsible of any other use of this code as it's working as any other AdBlocker around.
+
 ## Testing
 
 If you want to test yourself and run it in your Firefox, you can build it.
