@@ -10,7 +10,9 @@ If you want to test yourself and run it in your Firefox, you can build it.
 
 Run this command in a shell.
 
-```npm install --global web-ext
+```
+npm install --global web-ext
+```
 
 And then you will be able to use its features.
 For more information please go [https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Getting_started_with_web-ext](to Mozilla's getting started).
